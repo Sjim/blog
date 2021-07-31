@@ -1,0 +1,35 @@
+.head{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 80px;
+}
+header{
+    margin-top: 0%;
+    width: 100%;
+    height: 100px;
+    text-align: right;
+}
+.video{
+    align-items: center;
+  
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 1000px;
+}
+iframe{
+    height: 100%;
+    width: 100%;
+}
+.info{
+    text-align: center;
+    font-size: medium;
+}
+.picTable{
+    margin-top: 100px;
+
+}
+.picTable img{
+    height: 200px;
+    overflow: hidden;
+    
+}

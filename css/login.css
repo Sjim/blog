@@ -1,0 +1,35 @@
+.box {
+  background-color: gray;
+  text-align: center;
+  font-size: 25px;
+  width: 500px;
+  height: 300px;
+  padding-top: 40px;
+  margin: 10% auto;
+}
+.box > * {
+  margin: 10px;
+}
+.index {
+  color: black;
+  text-align: center;
+}
+#verifyCanvas {
+  position: relative;
+  top: 8px;
+  right: 8px;
+}
+input {
+  height: 30px;
+  font-size: 25px;
+  width: 168px;
+}
+#code_input {
+  width: 72px;
+  position: relative;
+  right: 8px;
+}
+#lable_test {
+  position: relative;
+  right: 20px;
+}
