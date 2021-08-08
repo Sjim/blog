@@ -3,8 +3,14 @@ var start = 0;
 var flag = false;
 $(function () {
   var hash = document.getElementById("hash");
-
-  console.log(hex_sha256("ILOVEWANGYIYAO"));
+  $(hash).bind('keydown',function(event){
+    if(event.keyCode == "13")    
+    {
+      console.log(hash.value)
+      console.log(hex_sha256(hash.value));
+    }
+  });
+  
   $(window).bind("scroll", function () {
     show();
    
