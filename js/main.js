@@ -2,6 +2,8 @@ var num = 1;
 var start = 0;
 var flag = false;
 $(function () {
+  var hash = document.getElementById("hash");
+  hash.textContent = hex_sha256("ILOVEWANGYIYAO");
   $(window).bind("scroll", function () {
     show();
    
