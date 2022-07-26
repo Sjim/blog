@@ -52,7 +52,7 @@ $(function () {
             i +
             ";i<" +
             (start + num) +
-            ';i++){var image = document.getElementById("img"+i);image.onclick=function(){document.location.assign("../html/sub.html"+"?"+i);}}</script>';
+            ';i++){var image = document.getElementById("img"+i);image.onclick=function(){document.location.assign("../sub.html"+"?"+i);}}</script>';
 
           console.log(res.length + "length");
         }
