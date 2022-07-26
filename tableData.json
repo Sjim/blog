@@ -1,53 +1,83 @@
-[  {
-    "img":"../photo/可惜不是你/01.jpg","title":"可惜不是你",
-    "imgs":[
-        "../photo/可惜不是你/01.jpg","../photo/可惜不是你/02.jpg","../photo/可惜不是你/03.jpg","../photo/可惜不是你/04.jpg","../photo/可惜不是你/05.jpg"
-    ]
-}
-,
+[
     {
-    "img":"../photo/枫叶城/1.png","title":"枫叶城",
-    "imgs":[
-        "../photo/枫叶城/1.png","../photo/枫叶城/2.png","../photo/枫叶城/3.png"
-    ]
-}
-, {
-    "img":"../photo/一生所爱/4.jpg","title":"一生所爱",
-    "imgs":[
-        "../photo/一生所爱/4.jpg","../photo/一生所爱/5.jpg","../photo/一生所爱/6.jpg","../photo/一生所爱/7.jpg"
-    ]
-},
-{
-    "img":"../photo/cityOfStars/cityOfStars_00.png","title":"City Of Stars",
-    "imgs":[
-        "../photo/cityOfStars/cityOfStars_00.png","../photo/cityOfStars/cityOfStars_01.png"
-    ]
-}
-,
-{
-    "img":"../photo/成都/成都_00.png","title":"成都",
-    "imgs":[
-        "../photo/成都/成都_00.png","../photo/成都/成都_01.png","../photo/成都/成都_02.png"
-    ]
-}
-,
-{
-    "img":"../photo/lemon/lemon_00.png","title":"Lemon",
-    "imgs":[
-        "../photo/lemon/lemon_00.png","../photo/lemon/lemon_01.png","../photo/lemon/lemon_02.png","../photo/lemon/lemon_03.png","../photo/lemon/lemon_04.png"
-    ]
-}
-,
-{
-    "img":"../photo/起风了/起风了_00.png","title":"起风了",
-    "imgs":[
-        "../photo/起风了/起风了_00.png","../photo/起风了/起风了_01.png","../photo/起风了/起风了_02.png"
-    ]
-},
-{
-    "img":"../photo/夜空中最亮的星/夜空中最亮的星_00.png","title":"夜空中最亮的星",
-    "imgs":[
-        "../photo/夜空中最亮的星/夜空中最亮的星_00.png","../photo/夜空中最亮的星/夜空中最亮的星_01.png","../photo/夜空中最亮的星/夜空中最亮的星_02.png","../photo/夜空中最亮的星/夜空中最亮的星_03.png"
-    ]
-}
-]
+      "img": "photo/可惜不是你/01.jpg",
+      "title": "可惜不是你",
+      "imgs": [
+        "photo/可惜不是你/01.jpg",
+        "photo/可惜不是你/02.jpg",
+        "photo/可惜不是你/03.jpg",
+        "photo/可惜不是你/04.jpg",
+        "photo/可惜不是你/05.jpg"
+      ]
+    },
+    {
+      "img": "photo/天空之城/01.jpg",
+      "title": "天空之城",
+      "imgs": [
+        "photo/天空之城/01.jpg"
+      ]
+    },
+    {
+      "img": "photo/枫叶城/1.png",
+      "title": "枫叶城",
+      "imgs": ["photo/枫叶城/1.png", "photo/枫叶城/2.png", "photo/枫叶城/3.png"]
+    },
+    {
+      "img": "photo/一生所爱/4.jpg",
+      "title": "一生所爱",
+      "imgs": [
+        "photo/一生所爱/4.jpg",
+        "photo/一生所爱/5.jpg",
+        "photo/一生所爱/6.jpg",
+        "photo/一生所爱/7.jpg"
+      ]
+    },
+    {
+      "img": "photo/cityOfStars/cityOfStars_00.png",
+      "title": "City Of Stars",
+      "imgs": [
+        "photo/cityOfStars/cityOfStars_00.png",
+        "photo/cityOfStars/cityOfStars_01.png"
+      ]
+    },
+    {
+      "img": "photo/成都/成都_00.png",
+      "title": "成都",
+      "imgs": [
+        "photo/成都/成都_00.png",
+        "photo/成都/成都_01.png",
+        "photo/成都/成都_02.png"
+      ]
+    },
+    {
+      "img": "photo/lemon/lemon_00.png",
+      "title": "Lemon",
+      "imgs": [
+        "photo/lemon/lemon_00.png",
+        "photo/lemon/lemon_01.png",
+        "photo/lemon/lemon_02.png",
+        "photo/lemon/lemon_03.png",
+        "photo/lemon/lemon_04.png"
+      ]
+    },
+    {
+      "img": "photo/起风了/起风了_00.png",
+      "title": "起风了",
+      "imgs": [
+        "photo/起风了/起风了_00.png",
+        "photo/起风了/起风了_01.png",
+        "photo/起风了/起风了_02.png"
+      ]
+    },
+    {
+      "img": "photo/夜空中最亮的星/夜空中最亮的星_00.png",
+      "title": "夜空中最亮的星",
+      "imgs": [
+        "photo/夜空中最亮的星/夜空中最亮的星_00.png",
+        "photo/夜空中最亮的星/夜空中最亮的星_01.png",
+        "photo/夜空中最亮的星/夜空中最亮的星_02.png",
+        "photo/夜空中最亮的星/夜空中最亮的星_03.png"
+      ]
+    }
+  ]
+  
