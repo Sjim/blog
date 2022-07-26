@@ -32,7 +32,7 @@ $(function () {
   function ajaxRead() {
     $.ajax({
       type: "get",
-      url: "../tableData.json",
+      url: "tableData.json",
       success: function (res) {
         console.log(res);
         var str = "";

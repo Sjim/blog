@@ -1,6 +1,6 @@
 
 $.ajax({
-  url: "../tableData.json",
+  url: "tableData.json",
   type: "get",
   success: function(res){
     var page;
